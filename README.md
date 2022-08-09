@@ -2,7 +2,7 @@
 
 This repository contains the templates to be used with [Obsidian Rpg Manager Plugin](https://github.com/carlonicora/obsidian-rpg-manager).
 
-To use the templates, [download]() the templates for your installed version of Rpg Manager.
+To use the templates, [download](https://github.com/carlonicora/obsidian-rpgmanager-templates/releases) the templates for your installed version of Rpg Manager.
 
 
 ## Contributing
