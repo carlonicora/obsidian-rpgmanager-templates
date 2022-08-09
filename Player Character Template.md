@@ -5,10 +5,8 @@ dates:
  dob: 
  death: 
 relationships:
- characters: 
  factions: 
- locations: 
-generation:
+ locations:
 completed: false
 ---
 ```RpgManager
