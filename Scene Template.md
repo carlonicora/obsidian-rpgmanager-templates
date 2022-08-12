@@ -1,13 +1,14 @@
 ---
 alias: []
 tags: [scene]
-ids:
- session: 
+ids: 
+ session:  
  scene: 
-relationships: 
+relationships:   
  clues: 
+ characters: 
  locations: 
-time:
+time: 
  start: 
  end: 
 ---

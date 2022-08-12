@@ -2,7 +2,7 @@
 alias: []
 tags: [session]
 synopsis: ""
-ids:
+ids: 
  adventure: 
  session: 
  type: YOU|NEED|BUT|THEREFORE
@@ -12,7 +12,7 @@ dates:
 completed: false
 ---
 ```RpgManager
-sessionNavigator
+sessionNavigation
 ```
 ## Introduction
 

@@ -2,7 +2,7 @@
 alias: []
 tags: [faction]
 synopsis: ""
-relationships:
+relationships: 
  locations: 
 completed: false
 ---

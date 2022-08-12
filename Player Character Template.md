@@ -1,12 +1,13 @@
 ---
 alias: []
 tags: [character/pc]
-dates:
+dates: 
  dob: 
  death: 
-relationships:
+relationships: 
+ characters: 
  factions: 
- locations:
+ locations: 
 completed: false
 ---
 ```RpgManager

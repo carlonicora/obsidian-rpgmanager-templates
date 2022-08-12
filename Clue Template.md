@@ -2,11 +2,11 @@
 alias: []
 tags: [clue]
 synopsis: ""
-dates:
+dates: 
  found: 
-relationships:
- locations: 
+relationships:  
  characters: 
+ locations: 
 completed: false
 ---
 ```RpgManager

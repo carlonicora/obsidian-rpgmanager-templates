@@ -2,11 +2,11 @@
 alias: []
 tags: [event]
 synopsis: ""
-dates:
+dates: 
  event: 
-relationships:
+relationships: 
  characters: 
- clues:
+ clues: 
  locations: 
 completed: false
 ---

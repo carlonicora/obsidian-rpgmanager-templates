@@ -3,14 +3,13 @@ alias: []
 tags: [character/npc]
 synopsis: ""
 goals: ""
-dates:
- dob:
- death:
-relationships:
- clues: 
+dates: 
+ dob: 
+ death: 
+relationships: 
  characters: 
  factions: 
- locations:
+ locations: 
 completed: false
 ---
 ```RpgManager

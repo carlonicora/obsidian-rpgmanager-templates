@@ -1,8 +1,8 @@
 ---
 alias: [campaign]
 tags: [campaign]
-dates:
- current: 
+dates: 
+ current:  
 ---
 ## Introduction
 
