@@ -12,10 +12,11 @@ time:
  start: 
  end: 
 ---
+```RpgManager
+sceneNavigation
+```
+
 ## Trigger
-
-
-## Goal
 
 
 ## Action

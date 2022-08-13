@@ -1,5 +1,8 @@
 # Changes in templates
 
+## v0.2.6
+Added Scene Navigation
+
 ## v0.2.0
 Added Timeline Template
 
