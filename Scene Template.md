@@ -1,6 +1,8 @@
 ---
 alias: []
 tags: [scene]
+synopsis: 
+action: 
 ids: 
  session:  
  scene: 
